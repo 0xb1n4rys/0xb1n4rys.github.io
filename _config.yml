@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://0xbin4ry.github.io"
 
 github:
-  username: 0xbin4ry # change to your GitHub username
+  username: 0xb1n4rys # change to your GitHub username
 
 twitter:
   username: 0xb1n4ry # change to your Twitter username
@@ -35,11 +35,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 0xb1n4ry
-  email: 0xb1n4ry@proton.me # change to your email address
+  email: 0xb1n4rys@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/0xb1n4ry # change to your Twitter homepage
-    - https://github.com/0xbin4ry # change to your GitHub homepage
+    - https://github.com/0xb1n4rys # change to your GitHub homepage
     # Uncomment below to add more social links
     # https://www.facebook.com/username
     # https://www.linkedin.com/in/username
