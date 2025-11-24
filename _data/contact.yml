@@ -6,17 +6,22 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: discord
+  icon: "fa-brands fa-discord"
+  url:  "https://discordapp.com/users/1336435444077822104"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
 # - type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
+#
+# - type: email
+#  icon: "fas fa-envelope"
+#  noblank: true # open link in current tab
+#
+# - type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
