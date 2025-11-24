@@ -4,17 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> _“We pry open systems to see how the world actually runs.”_
+> _“We pry open systems to see how the world actually runs”_
 
-I’m **0xb1n4ry**, low‑level developer and researcher focused on reverse engineering and offensive security. I explore system internals, build proofs‑of‑concept, and solve CTFs to sharpen practical skills.
-
-## What I do
-- **Reverse Engineering:** unpacking binaries, analyzing control flow and data structures, rebuilding intent from disassembly.  
-- **Low‑Level Development:** kernel and userland tooling, exploit primitives, and small, auditable POCs.  
-- **Offensive Security:** end‑to‑end assessments on lab targets; vulnerability classification and exploitation techniques.  
-- **CTF Play:** challenge solves that drive practical research and concise write‑ups.
-
----
+I’m **0xb1n4ry**, low‑level developer and researcher focused on reverse engineering and offensive security.
 
 ## What’s on this site
 - Vulnerable machine write‑ups
